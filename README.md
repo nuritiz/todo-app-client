@@ -1,7 +1,7 @@
 # TODO App
 
 One pager which presents the current todo list. 
-you can add new todos, and remove tosos by clicking on their checkbox.
+you can add new todos, and remove todos by clicking on their checkbox.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
